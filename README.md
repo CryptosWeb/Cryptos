@@ -39,5 +39,4 @@ No, but a paid version will probably be released in the future.
 ## 📱 Stay in touch
 
 - Author - [Marc Medrano](https://www.flowcode.com/page/elmarc)
-- Personal Discord - [In development](https://discord.gg/qBXUtT8Kte)
-- Twitter - [@M4RC](https://twitter.com/MarcMedrano15)
+- Author - [Dani Rodriguez](https://github.com/Dani-Rodriguez-Penya)
