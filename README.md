@@ -5,8 +5,12 @@
 <p align="center">A perfect website for those who want to invest in cryptos</p>
 <h3 align="center">🔨 Built with ⚙️</h3>
 <p align="center">
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='50px'>
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='50px'/>
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='50px'>
+  <img src='https://camo.githubusercontent.com/29e705dcac8d111d67e72cab2037b3d7a5a8dc63ca9291a7a3f226baccb07f28/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6f64656a732d69636f6e2e737667' height='50px'/>
+   <img src='https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67' height='50px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/express.png' height='50px'>
   </p>
 
 
