@@ -46,4 +46,4 @@ No, but a paid version will probably be released in the future.
 - [Discord](https://discord.com/invite/zPSYDGVXxx)
 - [Instagram](https://www.instagram.com/marcmedranoz/)
 
-### Made by Marc Medrano 🔅
+### 🔅 Made by Marc Medrano 
