@@ -40,7 +40,10 @@ No, but a paid version will probably be released in the future.
 - Website - [In development](https://elmarcz.github.io/Cryptos/)
 - Twitter - [@Cryptos](https://twitter.com/Deathland)
 
-## 📱 Stay in touch
+### 👤 Stay in touch
+- [Website](https://elmarcz.github.io/portfolio/)
+- [Twitter](https://twitter.com/MarcMedrano15)
+- [Discord](https://discord.com/invite/zPSYDGVXxx)
+- [Instagram](https://www.instagram.com/marcmedranoz/)
 
-- Author - [Marc Medrano](https://www.flowcode.com/page/elmarc)
-- Author - [Dani Rodriguez](https://github.com/Dani-Rodriguez-Penya)
+### Made by Marc Medrano 🔅
